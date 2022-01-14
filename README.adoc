@@ -1,1 +1,2 @@
-# EcommerceShorp
+# EcommerceShorp und Vorstellung der Webseite
+![Vorstellung der Web seite](https://user-images.githubusercontent.com/94777975/149572217-ea41ccdf-c768-4b1a-874b-5894ee9a127d.PNG)
